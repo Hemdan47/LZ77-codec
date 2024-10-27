@@ -27,7 +27,7 @@ This project implements the **LZ77** compression and decompression algorithm in 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Hemdan47/LZ77-codec
    cd LZ77-codec
    ```
 
