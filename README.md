@@ -1,5 +1,3 @@
-Here's the updated README file for your LZ77 compression and decompression project:
-
 # LZ77 Compression and Decompression
 
 This project implements the **LZ77** compression and decompression algorithm in Java. LZ77 is a lossless data compression algorithm that replaces repeated occurrences of data with references to a single copy within a defined sliding window. This project provides a command-line interface for compressing and decompressing text files.
